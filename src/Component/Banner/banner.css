@@ -1,0 +1,12 @@
+.banner {
+  height: 700px;
+  background-image: linear-gradient(
+      to right,
+      rgba(119, 119, 119, 0.5),
+      rgba(119, 119, 119, 0.5)
+    ),
+    url("../../img/car.jpg");
+
+  background-position: center;
+  background-size: cover;
+}

@@ -1,0 +1,11 @@
+.signup {
+  background-image: linear-gradient(
+      to right,
+      rgba(119, 119, 119, 0.5),
+      rgba(119, 119, 119, 0.5)
+    ),
+    url("../../img/signup.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

@@ -1,0 +1,10 @@
+
+Steps to use firebase
+
+1. Create a project on console.firebase.google.com
+2. install firebase
+3. Register Web app in firebase
+4. Copy firebase init with config from firebase project
+5. Export default app
+6. import app firebase init.js into my app.js file
+

@@ -1,0 +1,11 @@
+export { default as Header } from "./Header/Header";
+export { default as Banner } from "./Banner/Banner.jsx";
+export { default as Services } from "./Services/Services.jsx";
+export { default as Footer } from "./Footer/Footer.jsx";
+export { default as Blog } from "./Blog/Blog.jsx";
+export { default as AboutUs } from "./AboutUs/AboutUs.jsx";
+export { default as Home } from "./Home/Home.jsx";
+export { default as SignUp } from "./SignUP/SignUp.jsx";
+export { default as Login } from "./Loging/Loging.jsx";
+export { default as CheckOut } from "./CheckOut/CheckOut.jsx";
+export { default as NotFound } from "./NotFound/NotFound.jsx";

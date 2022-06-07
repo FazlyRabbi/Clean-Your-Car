@@ -1,0 +1,16 @@
+.card-1,
+.card-2,
+.card-3 {
+  height: 30rem;
+  width: 25rem;
+}
+
+.card-1 {
+  background: url("../../img/s1.jpg") center no-repeat;
+}
+.card-2 {
+  background: url("../../img/s2.jpg") center no-repeat;
+}
+.card-3 {
+  background: url("../../img/s3.jpg") top no-repeat;
+}
